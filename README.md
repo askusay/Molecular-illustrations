@@ -25,6 +25,6 @@ Yellow represents a hydrophobic patch of residues that is targetted by the Sansa
 Simulations were conducted to open the pore of the $\alpha2\beta4$ nAChR.\
 The vectors for steering were calculated based on the $\alpha7$ nAChR structures by [Noviello et al. (2021)](https://pubmed.ncbi.nlm.nih.gov/33735609/).
 
-# Presenations:
+# Presentations:
 ### [3 Minute thesis presenation 2019](https://www.youtube.com/watch?v=xonUGe55gFs&ab_channel=AliK)
 ### [Molvis day presenation at the visualisation dome in Norrköping](https://twitter.com/a_kusay/status/1641179602608431105)
