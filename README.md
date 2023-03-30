@@ -13,7 +13,11 @@ Studying how the protein interacts with the lipids and membrane biophysical prop
 <br />
 
 # Binding of Sansanmycin analogues to the MurX enzyme 
-ok
+![MurX](images/murx.png)
+Simulations to investigate the binding of Sansanmycin antibiotic analogues to the MurX enzyme from *Mycobacterium tuberculosis*\
+[Find out more here](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.1c01407).
+
+<br />
 
 # Binding of transmembrane modulators to the $\alpha2\beta4$ nAChR
 
