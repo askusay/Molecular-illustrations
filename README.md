@@ -13,4 +13,9 @@ Studying how the protein interacts with the lipids and membrane biophysical prop
 <br />
 
 # Binding of Sansanmycin analogues to the MurX enzyme 
+ok
+
+# Binding of transmembrane modulators to the $\alpha2\beta4$ Nicotinic acetycholine receptor
+
+
 
