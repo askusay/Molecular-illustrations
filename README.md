@@ -18,6 +18,7 @@ ok
 # Binding of transmembrane modulators to the $\alpha2\beta4$ nAChR
 
 ![Alik_Poster](images/nachr.png)
+Steered molcular dynamics simulations of the $\alpha2\beta4$ nAChR to open the ion conducting pore.
 
 
 
