@@ -17,7 +17,7 @@ ok
 
 # Binding of transmembrane modulators to the $\alpha2\beta4$ nAChR
 
-![Alik_Poster](images/Alik_AMMA_poster_edit.jpg)
+![Alik_Poster](images/nachr.png)
 
 
 
