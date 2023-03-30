@@ -15,7 +15,7 @@ Studying how the protein interacts with the lipids and membrane biophysical prop
 # Binding of Sansanmycin analogues to the MurX enzyme 
 ![MurX](images/murx.png)
 Simulations to investigate the binding of Sansanmycin antibiotic analogues to the MurX enzyme from *Mycobacterium tuberculosis*\
-[Find out more here](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.1c01407).
+Yellow represents a hydrophobic patch of residues that is targetted by the Sansanmycin analogues. [Find out more here](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.1c01407).
 
 <br />
 
