@@ -7,4 +7,5 @@ Simulations of the Kv7.4 channel in a plasma membrane model with [Martini 2.2 pa
 
 Lipid composition is based on the plasma membrane model of [Ingólfsson et al. (2014)](https://pubs.acs.org/doi/full/10.1021/ja507832e)
 
+# Binding of Sansanmycin analogues to the MurX enzyme 
 
